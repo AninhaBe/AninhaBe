@@ -1,5 +1,5 @@
 
-### Opa, Me chamo Ana! 🖖 
+### Hey, What's Up? Sou a Ana! 🖖 
 
 ![AninhaBe GitHub stats](https://github-readme-stats.vercel.app/api?username=aninhaBe&show_icons=true&theme=dracula)
 
